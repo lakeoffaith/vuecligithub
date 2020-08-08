@@ -23,6 +23,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## vue.config
+### 审查
+npm run inspect > output.js
+
 
 ## project部署到github page
 
